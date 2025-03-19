@@ -25,8 +25,8 @@ Edit
 bash
 Copy
 Edit
-git clone https://github.com/YOUR_USERNAME/AI-Conversation-Bot.git
-cd AI-Conversation-Bot
+git clone https://github.com/paschal-godwin/AI-LLM-conversation.git
+cd AI conversation projects
 2️⃣ Install Dependencies
 bash
 Copy
